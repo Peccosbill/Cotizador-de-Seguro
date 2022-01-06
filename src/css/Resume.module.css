@@ -1,0 +1,24 @@
+.resume {
+    margin: 2rem;
+    padding: 0.5rem 0 0.5rem 1rem;
+    border-radius: 1rem;
+    color: #F8F4E3;
+    background-color: #1B2432;
+    box-shadow: 0 0 1rem #1B2432;
+}
+
+.resume h2 {
+    text-align: center;
+    margin: 0.8rem 0;
+}
+
+.resume ul li {
+    color: #fbe47b;
+    font-size: 1.2rem;
+    list-style: none;
+    line-height: 1.7rem;
+}
+
+.resume ul li span {
+    color: #F8F4E3;
+}

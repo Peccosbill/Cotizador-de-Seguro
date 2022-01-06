@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Expletus Sans", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  display: grid;
+  justify-content: center;
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
