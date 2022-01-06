@@ -1,3 +1,17 @@
+# Cotizador de Seguros de Autos
+
+Es una pequeña app que te cotiza un seguro de auto dependiendo los datos que ingreses.
+Fue creada usando la biblioteca de *React.js*, un poco de *Ract Transition Group* y *CSS Animate* para algunas animaciones.
+
+![C1](https://user-images.githubusercontent.com/91910994/148401423-bf079d50-b77d-4b18-b36a-cd1600d75c64.png)
+
+
+Una vez que ingresamos los datos, nos saldrá un resumen incluido el precio total de la cotización.
+
+![C2](https://user-images.githubusercontent.com/91910994/148400778-f0840ad7-f725-4222-ad21-19c22136a73b.png)
+
+Fue hecha con ♥, espero que les guste.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
